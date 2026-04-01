@@ -1,4 +1,4 @@
-Schedule Change Training
+# Schedule Change Training
 
 An interactive training module for Nightingale College Registrar staff 
 covering all four types of schedule changes — Add/Drop Period, Weeks 3–16, 
